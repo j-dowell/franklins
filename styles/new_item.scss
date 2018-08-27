@@ -28,7 +28,7 @@ article:hover {
 
 article header {
   background-color: $lgrey;
-  padding: 10px;
+  padding: 0.5em;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   border-color: darkgrey;
@@ -41,11 +41,12 @@ article:hover header {
 img.item-photo {
   position: relative;
   float: left;
-  height: 50px;
-  width: 50px;
+  height: 75px;
+  width: 75px;
   top: -1px;
   opacity: 0.75;
   border-radius: 5px;
+  margin-right: 1em;
 }
 
 article:hover .item-photo {

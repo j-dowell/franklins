@@ -27,7 +27,7 @@ exports.seed = function(knex, Promise) {
         }),
         knex('menu_items').insert({
           id: 3,
-          name: 'Mediterranean Spinach Salad',
+          name: 'Spinach Feta Salad',
           cost: 7,
           price: 14.00,
           description: 'Spinach, artichokes, red bell pepper, grape tomatoes, red onion, feta cheese, kalamata olives, greek vinaigrette',

@@ -4,12 +4,12 @@
 
 #cart {
   background-color: white;
-  border-radius: 5px;
+  border-radius: 10px;
   opacity: 0.9;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
     table#cart tbody td .form-control{
-		width:20%;
+		width: 1000px;
 		display: inline !important;
 	}
 	.actions .btn{
