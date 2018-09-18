@@ -1,4 +1,4 @@
-# Midterm Project: Franklin's
+# Franklin's
 
 Franklin's is a full stack web application built around Node and Express that allows a restaurant owner to accept orders online through a server. Franklin's includes the following functionality:
 
