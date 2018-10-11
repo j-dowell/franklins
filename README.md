@@ -1,6 +1,6 @@
 # Franklin's
 
-Franklin's is a full stack web application built around Node and Express that allows a restaurant owner to accept orders online through a server. Franklin's includes the following functionality:
+Franklin's is a full stack web application built around Node and Express that allows a restaurant owner to accept and manage orders. Franklin's includes the following functionality:
 
 1. Customers can select items from a menu and checkout using the shopping cart.
 2. Restaurant owners can add new menu items directly from the site itself.
